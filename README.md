@@ -8,3 +8,6 @@ kartikp962/kartikp962 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 github-metrics.svg
+
+
+<a href="https://app.daily.dev/kartikp962"><img src="https://api.daily.dev/devcards/07e544f860014b8c9f2a5bb7ee68d8bd.png?r=99u" width="400" alt="Kartik Pal's Dev Card"/></a>
